@@ -1,2 +1,19 @@
-
 /* Your CSS Code here. */
+.holder{
+	background-color: lightcoral;
+	width: 90%;
+	height: 90%;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+.item{
+	background-color: #f1f1f1;
+	margin: 10px;
+	/* width: 100px;
+	justify-content: space-evenly;
+	text-align: center;
+	 auto;
+	align-items: center;
+	align-content: justify; */
+}
